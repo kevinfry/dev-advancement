@@ -18,6 +18,7 @@ Created by Kevin Fry with the help of:
 - [Darius (Chukwuebuka) Ogenyi](https://www.linkedin.com/in/darius-ogenyi-startups-founder-ceo-personalbranding/) - Personal Branding
 - [Andrew Bolis](https://www.linkedin.com/in/andrewbolis/) - AI
 - [Jonathan Butterworth](https://www.linkedin.com/in/jonathanbutterworth/) - Leadership
+- [Kevin Box](https://www.linkedin.com/in/kevin-box/) - Personal Growth / Leadership
 - Always More to come
 
 -----
