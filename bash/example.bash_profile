@@ -93,6 +93,9 @@ alias downloads='clear && cd ~/Downloads && ll'
 cs() { cd "$@" && ls; }
 cl() { cd "$@" && ll; }
 project() { clear && cl $GITHOME/"$@"; }
+git-acp() { git add . && git commit -am "$@" && git push origin HEAD; }
+# osg-commands
+
 alias add-dock-spacer='defaults write com.apple.dock persistent-apps -array-add "{'tile-type'='spacer-tile';}" && killall Dock'   # Add a spacer to the dock
 alias show-hidden-files='defaults write com.apple.finder AppleShowAllFiles 1 && killall Finder'                                   # Show hidden files in Finder
 alias hide-hidden-files='defaults write com.apple.finder AppleShowAllFiles 0 && killall Finder'                                   # Hide hidden files in Finder
