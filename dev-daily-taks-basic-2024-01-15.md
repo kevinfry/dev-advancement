@@ -24,7 +24,7 @@ Replace each `[ ]` box below to `[X]` to mark it as complete.
     - [ ] Refactor
     - [X] Created Content
 
-2. [ ] **Learn Something New**
+2. [X] **Learn Something New**
     - [ ] Tutorial
     - [ ] Coding Function
     - [ ] Coding Technique
@@ -135,4 +135,4 @@ Replace each `[ ]` box below to `[X]` to mark it as complete.
 Holiday. Happy Martin Luther King Jr. Day!
 
 Replace the count below with the number of occurrences of `[X]` you find.
-count: `42`
+count: `43`
