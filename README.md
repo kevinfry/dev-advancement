@@ -8,7 +8,7 @@ To stay current with everything, I want to teach others to both maintain and inc
 I know my code isn't always going to be perfect, 'cause three months from now,
 I'll have a better understanding of the concept and language.
 
-## [dev-daily-taks-basic-template.md](dev-daily-taks-basic-template.md)
+## [dev-daily-taks-basic-template.md](dev-daily-tasks-basic-template.md)
 My template is what you'll download at the start of your workday and replace `template` with the naming convention of your choice, but the preferred format is `YYYY-MM-DD` for organizational purposes.
 
 Then replace each `[ ]` (box) to `[X]` to mark it as complete.
