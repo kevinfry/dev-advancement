@@ -15,10 +15,15 @@ Then replace each `[ ]` (box) to `[X]` to mark it as complete.
 
 Created by Kevin Fry with the help of:
 - [ChatGPT](https://chat.openai.com/) - AI Chat
-- [Darius (Chukwuebuka) Ogenyi](https://www.linkedin.com/in/darius-ogenyi-startups-founder-ceo-personalbranding/) - Personal Branding
+- [Darius Ogenyi](https://www.linkedin.com/in/darius-ogenyi-startups-founder-ceo-personalbranding/) - Personal Branding
 - [Andrew Bolis](https://www.linkedin.com/in/andrewbolis/) - AI
 - [Jonathan Butterworth](https://www.linkedin.com/in/jonathanbutterworth/) - Leadership
 - [Kevin Box](https://www.linkedin.com/in/kevin-box/) - Personal Growth / Leadership
+- [Dean Elkholy](https://www.linkedin.com/in/deanelkholy/) - Level Up
+- [Anthony Carlton](https://www.linkedin.com/in/anthonyrcarlton/) - Personal Brand
+- [Chris Donnelly](https://www.linkedin.com/in/donnellychris/) - Entrepreneurial Journey
+- [Eric Partaker](https://www.linkedin.com/in/eric-partaker-5560b92/) - The CEO Coach, leadership & self-mastery.
+- [Parker Worth](https://www.linkedin.com/in/parker-worth-120380270/) - Storytelling & Business.
 - Always More to come
 
 -----

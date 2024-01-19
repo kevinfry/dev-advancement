@@ -92,8 +92,21 @@ alias home='clear && cd ~ && ll'
 alias downloads='clear && cd ~/Downloads && ll'
 cs() { cd "$@" && ls; }
 cl() { cd "$@" && ll; }
+# project kevinfry
 project() { clear && cl $GITHOME/"$@"; }
+# git-acp "testing bash"
 git-acp() { git add . && git commit -am "$@" && git push origin HEAD; }
+# git-clone <GITHOME_dir> <url> <project_dir>
+# git-clone kevinfry https://github.com/kevinfry/upgraded-happiness.git inventory
+git-clone() { cd $GITHOME/$1 && git clone $2 $3 && cd $3; }
+# git-clone-fast <GITHOME_sub_dir> <url> <project_dir>
+git-clone-fast() { cd $GITHOME/$1 && git clone $2 $3 && cd $3; }
+git-clone-project() { cd $GITHOME/$1 && git clone $2 $4-$3 && cd $4-$3 && git checkout -b $4; }
+git-restart-project() { cd $GITHOME/$1 && cp $4 $4-backup && rm -rf $4/ && git clone $2 $4-$3 && cd $4-$3 && git checkout -b $4-restart; }
+# git-fk project repo_url project_dir
+git-fk() { cd $GITHOME/$1 && rm -rf $4/ && git clone $2 $4-$3 && cd $4-$3 && git checkout -b $4-restart; }
+phps() { open -na "PhpStorm.app" --args "$@"; }
+mk-dev() { [ -d _dev ] || mkdir _dev && cd _dev; }
 # osg-commands
 
 alias add-dock-spacer='defaults write com.apple.dock persistent-apps -array-add "{'tile-type'='spacer-tile';}" && killall Dock'   # Add a spacer to the dock

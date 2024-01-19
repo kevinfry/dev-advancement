@@ -1,29 +1,23 @@
-# Developer Daily Tasks
-Created by [Kevin Fry](https://github.com/kevinfry)
+# Developer Daily Tasks [Home](https://github.com/kevinfry/dev-advancement)
+Created by Kevin Fry
+- [GitHub](https://github.com/kevinfry)
+- [LinkedIn](https://www.linkedin.com/in/kevinjfry/)
+- [Facebook](https://www.facebook.com/kevinjfry)
 
-## YYYY-MM-DD
-List
+## 2024-01-18
+### Notes
+```bash
+
+crashed
+
+```
+
+### Links
 - A
 - B
 - C
 
-Links
-- [GitHub](https://github.com/kevinfry)
-- [LinkedIn](https://www.linkedin.com/in/kevinjfry/)
-- [Facebook](https://www.facebook.com/kevinjfry)
-- [TL;DR; Newsletter](https://tldr.tech/tech?ref=4899310)
 
-### Notes
-```text
-
-I really think source code should go here.
-Change the 'text' above to the source code language like:
-php
-bash
-javascript
-css
-
-```
 ### Developer Daily Tasks for Code Development
 
 1. [ ] **Coding, Code Review and Refactoring**
@@ -141,9 +135,9 @@ css
    - [ ] Bike
    - [ ] Other
 
-### git log, star date YYYY-MM-DD
+### git log, star date 2024-01-18
 
-Other notes and reflections on the day
+Back to work
 
 Replace the count below with the number of occurrences of `[X]` you find.
 
