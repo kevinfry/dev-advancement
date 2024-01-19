@@ -1,110 +1,104 @@
-# Developer Daily Tasks
-Created by [Kevin Fry](https://github.com/kevinfry)
+# Developer Daily Tasks [Home](https://github.com/kevinfry/dev-advancement)
+Created by Kevin Fry
+- [GitHub](https://github.com/kevinfry)
+- [LinkedIn](https://www.linkedin.com/in/kevinjfry/)
+- [Facebook](https://www.facebook.com/kevinjfry)
 
-## YYYY-MM-DD
-List
+## 2024-01-17
+### Notes
+```bash
+
+sleep 150
+
+
+```
+
+### Links
 - A
 - B
 - C
 
-Links
-- [GitHub](https://github.com/kevinfry)
-- [LinkedIn](https://www.linkedin.com/in/kevinjfry/)
-- [Facebook](https://www.facebook.com/kevinjfry)
-- [TL;DR; Newsletter](https://tldr.tech/tech?ref=4899310)
-
-### Notes
-```text
-
-I really think source code should go here.
-Change the 'text' above to the source code language like:
-php
-bash
-javascript
-css
-
-```
 ### Developer Daily Tasks for Code Development
 
-1. [ ] **Coding, Code Review and Refactoring**
-    - [ ] Wrote Code
+1. [X] **Coding, Code Review and Refactoring**
+    - [X] Wrote Code
     - [ ] Pushed Code
     - [ ] Created PR
-    - [ ] Merged
-    - [ ] Code Review
+    - [X] Merged
+    - [X] Code Review
     - [ ] Refactor
-    - [ ] Created Content
+    - [X] Created Content
 
-2. [ ] **Learn Something New**
+2. [X] **Learn Something New**
    - [ ] Tutorial
-   - [ ] Coding Function
+   - [X] Coding Function
    - [ ] Coding Technique
    - [ ] Coding Library
    - [ ] Coding Language
-   - [ ] Research
+   - [X] Research
    - [ ] Web Platform
    - [ ] Web App
    - [ ] Phone App
    - [ ] Computer App
 
-3. [ ] **Problem-Solving**
-   - [ ] No Errors or Warnings
+3. [X] **Problem-Solving**
+   - [X] No Errors or Warnings
    - [ ] Read logs and debugged solutions (Clean Code - No Errors or Warnings)
    - [ ] Noticed unexpected results ` n/a `
    - [ ] I need help with this: ` n/a `
    - [ ] Discovered solution: ` n/a `
 
-4. [ ] **Communication**
-   - [ ] Write a review on a source code change.
+4. [X] **Communication**
+   - [X] Write a review on a source code change.
    - [ ] Look for other perspectives on your software.
-   - [ ] Post on social media.
-     - [ ] LinkedIn
+   - [X] Post on social media.
+     - [X] LinkedIn
      - [ ] Facebook
      - [ ] Reddit
      - [ ] Quora
      - [ ] Flipboard
      - [ ] TikTok
      - [ ] Instagram
-   - [ ] Make Someone Happy!
-     - [ ] React
-     - [ ] Comment
-     - [ ] Share
+   - [X] Make Someone Happy!
+     - [X] React
+     - [X] Comment
+     - [X] Share
      - [ ] Reply
 
-5. [ ] **Testing**
-   - [ ] Nothing to test yet.
+5. [X] **Testing**
+   - [X] Nothing to test yet.
    - [ ] Tested in multiple environments with no changes.
    - [ ] Tested in multiple environments, made changes.
    - [ ] Everything worked.
 
 ### Personal Development
-1. [ ] **Eating/Drinking**
-   - [ ] Coffee
+1. [X] **Eating/Drinking**
+   - [X] Coffee
    - [ ] Breakfast
-   - [ ] Lunch
+   - [X] Lunch
    - [ ] Dinner
-   - [ ] Snack
+   - [X] Snack
    - [ ] Dessert
    - [ ] Tea
-   - [ ] Water
+   - [X] Water
 
-2. [ ] **Rest/Relax/Sleep**
-   - [ ] Sleep
-   - [ ] Rested Mind
-   - [ ] Meditated
-   - [ ] Nap
-   - [ ] Relaxed
+2. [X] **Rest/Relax/Sleep**
+   - [X] Sleep
+   - [X] Rested Mind
+   - [X] Meditated
+   - [X] Nap
+   - [X] Relaxed
    - [ ] Prayer
-   - [ ] Phone Free
+   - [X] Phone Free
      - [ ] Wake Up
-     - [ ] Pre-Sleep
+     - [X] Pre-Sleep
      - [ ] 1h Hack Session
-     - [ ] 2h Hack Session
+     - [X] 2h Hack Session
 
-3. [ ] **Free Time**
+3. [X] **Free Time**
     - [ ] Family Time
     - [ ] Significant Other Time
-    - [ ] Personal Time
+    - [X] Personal Time
     - [ ] Work Out
     - [ ] Exercise
     - [ ] Make A Call
@@ -115,8 +109,8 @@ css
     - [ ] Receive A Email
     - [ ] Other
 
-4. [ ] **Chore**
-    - [ ] Throw something away
+4. [X] **Chore**
+    - [X] Throw something away
     - [ ] List something on a sales platform
     - [ ] Do dishes
     - [ ] Vacuum
@@ -132,8 +126,8 @@ css
     - [ ] Clean Drawer
     - [ ] Other
 
-5. [ ] **Outside**
-   - [ ] Morning Walk
+5. [X] **Outside**
+   - [X] Morning Walk
    - [ ] Green Walk
    - [ ] Walk
    - [ ] Run
@@ -141,9 +135,9 @@ css
    - [ ] Bike
    - [ ] Other
 
-### git log, star date YYYY-MM-DD
+### git log, star date 2024-01-17
 
-Other notes and reflections on the day
+Back to work
 
 Replace the count below with the number of occurrences of `[X]` you find.
 

@@ -1,18 +1,10 @@
-# Developer Daily Tasks
-Created by [Kevin Fry](https://github.com/kevinfry)
-
-## YYYY-MM-DD
-List
-- A
-- B
-- C
-
-Links
+# Developer Daily Tasks [Home](https://github.com/kevinfry/dev-advancement)
+Created by Kevin Fry
 - [GitHub](https://github.com/kevinfry)
 - [LinkedIn](https://www.linkedin.com/in/kevinjfry/)
 - [Facebook](https://www.facebook.com/kevinjfry)
-- [TL;DR; Newsletter](https://tldr.tech/tech?ref=4899310)
 
+## 2024-01-19
 ### Notes
 ```text
 
@@ -141,7 +133,7 @@ css
    - [ ] Bike
    - [ ] Other
 
-### git log, star date YYYY-MM-DD
+### git log, star date 2024-01-19
 
 Other notes and reflections on the day
 

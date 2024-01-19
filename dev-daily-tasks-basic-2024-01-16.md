@@ -6,16 +6,37 @@ Created by Kevin Fry
 
 ## 2024-01-16
 ### Notes
-```text
+```bash
 
-I really think source code should go here.
-Change the 'text' above to the source code language like:
-php
-bash
-javascript
-css
+makeServer() {
+    path="$1"
+    if [ -z "$path" ]; then
+        path="."
+    fi
+    port="$2"
+    if [ -z "$port" ]; then
+        port="9001"
+    fi
+    file="$3"
+    if [ -z "$file" ]; then
+        file="index.php"
+    fi
+    open http://localhost:$port/$file
+    php -t $path -S localhost:$port
+}
+openSocialTabs() {
+  open 'https://github.com/' \
+      'https://www.linkedin.com/' \
+      'https://www.facebook.com/' \
+      'https://www.twitter.com/'
+}
 
 ```
+
+### Links
+- [Pika](https://pika.art/) - Short AI generated videos.
+- My Creation [animated penguins](content/five_penguins_discussing_advanced_development_topics.mp4)
+
 ### Developer Daily Tasks for Code Development
 
 1. [ ] **Coding, Code Review and Refactoring**
@@ -135,7 +156,7 @@ css
 
 ### git log, star date 2024-01-16
 
-Other notes and reflections on the day
+Back to work
 
 Replace the count below with the number of occurrences of `[X]` you find.
 count: `0`
