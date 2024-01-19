@@ -1,10 +1,18 @@
-# Developer Daily Tasks [Home](https://github.com/kevinfry/dev-advancement)
-Created by Kevin Fry
+# Developer Daily Tasks
+Created by [Kevin Fry](https://github.com/kevinfry)
+
+## 2024-01-19
+List
+- A
+- B
+- C
+
+Links
 - [GitHub](https://github.com/kevinfry)
 - [LinkedIn](https://www.linkedin.com/in/kevinjfry/)
 - [Facebook](https://www.facebook.com/kevinjfry)
+- [TL;DR; Newsletter](https://tldr.tech/tech?ref=4899310)
 
-## 2024-01-19
 ### Notes
 ```text
 
@@ -19,13 +27,13 @@ css
 ### Developer Daily Tasks for Code Development
 
 1. [ ] **Coding, Code Review and Refactoring**
-    - [ ] Wrote Code
-    - [ ] Pushed Code
-    - [ ] Created PR
-    - [ ] Merged
-    - [ ] Code Review
-    - [ ] Refactor
-    - [ ] Created Content
+   - [ ] Wrote Code
+   - [ ] Pushed Code
+   - [ ] Created PR
+   - [ ] Merged
+   - [ ] Code Review
+   - [ ] Refactor
+   - [ ] Created Content
 
 2. [ ] **Learn Something New**
    - [ ] Tutorial
@@ -50,18 +58,18 @@ css
    - [ ] Write a review on a source code change.
    - [ ] Look for other perspectives on your software.
    - [ ] Post on social media.
-     - [ ] LinkedIn
-     - [ ] Facebook
-     - [ ] Reddit
-     - [ ] Quora
-     - [ ] Flipboard
-     - [ ] TikTok
-     - [ ] Instagram
+      - [ ] LinkedIn
+      - [ ] Facebook
+      - [ ] Reddit
+      - [ ] Quora
+      - [ ] Flipboard
+      - [ ] TikTok
+      - [ ] Instagram
    - [ ] Make Someone Happy!
-     - [ ] React
-     - [ ] Comment
-     - [ ] Share
-     - [ ] Reply
+      - [ ] React
+      - [ ] Comment
+      - [ ] Share
+      - [ ] Reply
 
 5. [ ] **Testing**
    - [ ] Nothing to test yet.
@@ -88,41 +96,41 @@ css
    - [ ] Relaxed
    - [ ] Prayer
    - [ ] Phone Free
-     - [ ] Wake Up
-     - [ ] Pre-Sleep
-     - [ ] 1h Hack Session
-     - [ ] 2h Hack Session
+      - [ ] Wake Up
+      - [ ] Pre-Sleep
+      - [ ] 1h Hack Session
+      - [ ] 2h Hack Session
 
 3. [ ] **Free Time**
-    - [ ] Family Time
-    - [ ] Significant Other Time
-    - [ ] Personal Time
-    - [ ] Work Out
-    - [ ] Exercise
-    - [ ] Make A Call
-    - [ ] Receive A Call
-    - [ ] Make A Text
-    - [ ] Receive A Text
-    - [ ] Make A Email
-    - [ ] Receive A Email
-    - [ ] Other
+   - [ ] Family Time
+   - [ ] Significant Other Time
+   - [ ] Personal Time
+   - [ ] Work Out
+   - [ ] Exercise
+   - [ ] Make A Call
+   - [ ] Receive A Call
+   - [ ] Make A Text
+   - [ ] Receive A Text
+   - [ ] Make A Email
+   - [ ] Receive A Email
+   - [ ] Other
 
 4. [ ] **Chore**
-    - [ ] Throw something away
-    - [ ] List something on a sales platform
-    - [ ] Do dishes
-    - [ ] Vacuum
-    - [ ] Laundry
-    - [ ] Clear Off Desk
-    - [ ] Re-arrange Room
-    - [ ] Cook/make Breakfast
-    - [ ] Cook/make Lunch
-    - [ ] Cook/make Dinner
-    - [ ] Cook/make Snack
-    - [ ] Clean Room
-    - [ ] Clean Closet
-    - [ ] Clean Drawer
-    - [ ] Other
+   - [ ] Throw something away
+   - [ ] List something on a sales platform
+   - [ ] Do dishes
+   - [ ] Vacuum
+   - [ ] Laundry
+   - [ ] Clear Off Desk
+   - [ ] Re-arrange Room
+   - [ ] Cook/make Breakfast
+   - [ ] Cook/make Lunch
+   - [ ] Cook/make Dinner
+   - [ ] Cook/make Snack
+   - [ ] Clean Room
+   - [ ] Clean Closet
+   - [ ] Clean Drawer
+   - [ ] Other
 
 5. [ ] **Outside**
    - [ ] Morning Walk
